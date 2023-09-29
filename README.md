@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+Сделал всё в одном компоненте, надеюсь это не критично, так как не стал время тратить на разделение компонентов и на стилизацию
+
+Не совсем понял, как корректно должно работать добавление значений, так как не увидел это на картинке(я про 3е требование, но надеюсь это тоже не сильно критично)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
